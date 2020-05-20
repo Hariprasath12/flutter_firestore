@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425302168024",
+    "firebase_url": "https://flutterdemo-6c0e7.firebaseio.com",
+    "project_id": "flutterdemo-6c0e7",
+    "storage_bucket": "flutterdemo-6c0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425302168024:android:100216bc1ecb8b1ffd22ad",
+        "android_client_info": {
+          "package_name": "com.hari.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425302168024-4lliq3gau12a819ob2bsqr3rahcp2l4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEM1VTERftrwnNEWKWtjNQkoTJ6f0UKXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425302168024-4lliq3gau12a819ob2bsqr3rahcp2l4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
